@@ -1,6 +1,6 @@
 # GitHub Explorer App
 
-Learning [React Native](https://facebook.github.io/react-native/) using [GitHub API]()
+Learning [React Native](https://facebook.github.io/react-native/) using [GitHub API](https://developer.github.com/), project developed in the course of [RocketSeat](https://github.com/RocketSeat).
 
 <img src="screenshot-demo.png" width="630">
 
