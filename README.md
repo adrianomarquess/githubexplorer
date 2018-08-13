@@ -16,7 +16,7 @@ Learning [React Native](https://facebook.github.io/react-native/) using [GitHub 
 3. Go to the project folder
 4. Install dependencies
 ```
-git clone https://github.com/drimarques/githubexplorer.git
+git clone https://github.com/adrianomarquess/githubexplorer.git
 cd githubexplorer
 npm install
 ```
